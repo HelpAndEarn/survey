@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-hidden="true">
+  <!-- Map pin + small inner dot = local / nearby errands -->
+  <path
+    fill="#156cc4"
+    d="M16 3C11.58 3 8 6.91 8 11.5c0 4.93 6.25 13.94 7.43 15.62.43.61 1.18.93 1.94.93.76 0 1.5-.31 1.94-.93C19.52 24.93 24 16.7 24 11.5 24 6.91 20.42 3 16 3zm0 7.75a3.75 3.75 0 110 7.5 3.75 3.75 0 010-7.5z"
+  />
+</svg>
